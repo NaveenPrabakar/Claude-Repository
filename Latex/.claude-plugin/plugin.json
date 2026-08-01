@@ -1,0 +1,9 @@
+{
+  "name": "latex-toolkit",
+  "version": "0.1.0",
+  "description": "Skills for producing polished .tex documents: reports, resumes/CVs, Beamer presentations, tables/figures/TikZ diagrams, bibliographies, and compile troubleshooting.",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": ["latex", "tex", "reports", "resume", "beamer", "bibtex", "tikz"]
+}
