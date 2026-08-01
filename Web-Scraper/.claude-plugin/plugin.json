@@ -1,0 +1,9 @@
+{
+  "name": "web-scraper-toolkit",
+  "version": "0.1.0",
+  "description": "A diverse web scraping toolkit covering static HTML, JS-rendered pages, REST APIs, data cleaning/export, and legal/ethical compliance — with R (rvest/httr) and Python (BeautifulSoup/Selenium/Playwright) implementations for each approach.",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": ["web-scraping", "r", "python", "rvest", "selenium", "playwright", "data-extraction"]
+}
