@@ -1,0 +1,9 @@
+{
+  "name": "crypto-toolkit",
+  "version": "0.1.0",
+  "description": "Complete crypto analysis toolkit: fetch live and historical market data from the CoinGecko free API and turn it into price checks, deep-dive coin analysis, technical charts, portfolio tracking, coin comparisons, and market-wide pulse reports.",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": ["crypto", "cryptocurrency", "coingecko", "bitcoin", "trading", "market-data", "analysis"]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "leetcode-tutor-suite",
+  "version": "0.1.0",
+  "description": "Visual, step-through tutoring and debugging for every LeetCode question category: Algorithms (any language), Database (SQL), Shell, Concurrency, JavaScript, and Pandas.",
+  "author": {
+    "name": "Nav"
+  }
+}

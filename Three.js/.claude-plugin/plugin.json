@@ -1,0 +1,9 @@
+{
+  "name": "threejs-studio",
+  "version": "0.1.0",
+  "description": "A suite of skills for turning requests into diverse, interactive 3D visuals using the Three.js 3D Viewer connector — 3D data charts, science/physics simulations, algorithm & data-structure visualizations, generative art, and product/architectural showcases.",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": ["three.js", "3d", "visualization", "data-viz", "science", "algorithms", "generative-art", "product-viz"]
+}

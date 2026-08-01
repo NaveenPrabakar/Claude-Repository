@@ -1,0 +1,9 @@
+{
+  "name": "text-toolkit",
+  "version": "0.1.0",
+  "description": "A collection of Linux command-line skills for manipulating text files: search/filter, transform, sort/dedup, field extraction, stats, diff/merge, split/join, and cleanup. Each skill wraps battle-tested shell scripts (grep, sed, awk, sort, uniq, cut, diff, tr, etc).",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": ["linux", "shell", "text-processing", "grep", "sed", "awk", "cli"]
+}

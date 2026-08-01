@@ -1,0 +1,18 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex toolkit backed by live PokeAPI data — stat lookups, visual stat comparisons (radar/bar charts), and battle analysis (type matchups, speed checks, rough damage estimates).",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": [
+    "pokemon",
+    "pokedex",
+    "pokeapi",
+    "battle-analysis",
+    "data-visualization"
+  ],
+  "skills": [
+    "./skills/pokedex"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "aws-readonly",
+  "version": "0.1.0",
+  "description": "Read-only AWS inventory and inspection toolkit for EC2, S3, RDS, Lambda, ECS, CloudFormation, VPC, IAM, CloudWatch, DynamoDB, and ECR. Every script is hard-gated to describe/list/get-style calls -- no create, update, or delete actions are ever executed. Assumes `aws configure` is already set up in the local environment.",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": ["aws", "read-only", "cloud", "inventory", "audit", "ec2", "s3", "rds"]
+}

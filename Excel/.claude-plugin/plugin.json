@@ -1,0 +1,9 @@
+{
+  "name": "excel-power-toolkit",
+  "version": "0.1.0",
+  "description": "A full toolkit of skills for manipulating Excel workbooks end-to-end: cleaning and reshaping data, writing verified formulas, applying professional styling, building charts and dashboards, and automating multi-file workflows with VBA/macros.",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": ["excel", "xlsx", "openpyxl", "pandas", "spreadsheets", "vba", "data-cleaning", "formulas", "charts", "automation"]
+}
