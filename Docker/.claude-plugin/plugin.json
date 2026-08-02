@@ -1,0 +1,9 @@
+{
+  "name": "docker-builder",
+  "version": "0.1.0",
+  "description": "Scans a repo, detects its stack, and generates hardened, best-practice Dockerfiles for frontend/backend services plus docker-compose. Also scans built images for vulnerabilities and suggests size/layer optimizations.",
+  "author": {
+    "name": "Nav"
+  },
+  "keywords": ["docker", "dockerfile", "containers", "security", "devops"]
+}
